@@ -36,8 +36,6 @@ The goal of this project was to recreate the design of Amazon's homepage as clos
 
 ## 📸 Project Screenshot
 
-> Add a screenshot of your project here.
-
 ![Amazonclone](amazonecloneimg.png)
 
 ---
